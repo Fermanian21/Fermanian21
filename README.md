@@ -45,5 +45,5 @@ Computer Science student at the **Universidade de Fortaleza (UNIFOR)**, currentl
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Fermanian21&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Fermanian21&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
