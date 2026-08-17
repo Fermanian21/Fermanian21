@@ -14,7 +14,7 @@
 <b>Location:</b> Fortaleza, Brazil
 <b>Languages:</b> Portuguese (native), English (fluent), French (A2)
 <b>Email:</b> loiefermanian@gmail.com
-<b>Portfolio:</b> <a href="SEU_LINK_AQUI" style="color: inherit; text-decoration: underline;">Online / Active</a>
+<b>Portfolio:Under Construction...
       </pre>
       <ul>
         <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/loie-fermanian-39a6b1422/">linkedin.com/in/loie-fermanian-39a6b1422</a></li>
