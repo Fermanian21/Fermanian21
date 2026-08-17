@@ -33,7 +33,6 @@
 ## About me
 
 Computer Science student at the **Universidade de Fortaleza (UNIFOR)**, currently in my **4th semester**. 
-> *"One person's craziness is another person's reality."*
 
 ---
 
