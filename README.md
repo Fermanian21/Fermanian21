@@ -18,7 +18,7 @@
       </pre>
       <ul>
         <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/loie-fermanian-39a6b1422/">linkedin.com/in/loie-fermanian-39a6b1422</a></li>
-        <li><b>Email:</b> <a href="mailto:loiefermanian@gmail.com">loiefermanian@gmail.com</a></li>
+        <li><b>Email:</b> <a href="mailto:fermanianleticia@gmail.com">loiefermanian@gmail.com</a></li>
         <li><b>Portfolio:</b> <a href="SEU_LINK_AQUI">[Online / Active]</a></li>
       </ul>
     </td>
