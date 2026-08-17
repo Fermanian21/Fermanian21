@@ -13,7 +13,7 @@
 <b>Pronouns:</b> she/he/they
 <b>Location:</b> Fortaleza, Brazil
 <b>Languages:</b> Portuguese (native), English (fluent), French (A2)
-<b>Email:</b> loiefermanian@gmail.com
+<b>Email:</b> fermanianleticia@gmail.com
 <b>Portfolio:</b> Under Construction...
       </pre>
       <ul>
