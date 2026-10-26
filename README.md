@@ -10,7 +10,7 @@
 <b>OS:</b> Kubuntu 26.04 LTS (Resolute Raccoon)
 <b>Kernel:</b> Linux 7.0.0
 <b>Shell:</b> zsh 5.9
-<b>Pronouns:</b> she/he/they
+<b>Pronouns:</b> she/her
 <b>Location:</b> Fortaleza, Brazil
 <b>Languages:</b> Portuguese (native), English (fluent), French (A2)
 <b>Email:</b> fermanianleticia@gmail.com
